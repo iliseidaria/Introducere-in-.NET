@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\fii-2024-2025\\.net\\seminarii\\laborator3\\cod prof corect zip\\good\\bookmanagement\\application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|d:\\fii-2024-2025\\.net\\seminarii\\laborator3\\cod prof corect zip\\good\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\fii-2024-2025\\.net\\seminarii\\laborator3\\cod prof corect zip\\good\\bookmanagement\\application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ToolTip": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:29:49.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "BookManagement\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:34:43.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetBookByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "ToolTip": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:32:28.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
