@@ -297,11 +297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Application.csproj",
+      "projectPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\obj\\",
+      "outputPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -319,8 +319,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Domain\\Domain.csproj"
+            "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Domain\\Domain.csproj"
             }
           }
         }

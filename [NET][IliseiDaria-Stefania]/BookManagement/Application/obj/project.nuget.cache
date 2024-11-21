@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n8BYcStdGmc=",
+  "dgSpecHash": "tymXYVtvTTc=",
   "success": true,
-  "projectFilePath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Application.csproj",
+  "projectFilePath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

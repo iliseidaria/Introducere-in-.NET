@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1E0ttvoAYxY=",
+  "dgSpecHash": "DNCToxs7L/g=",
   "success": true,
-  "projectFilePath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\BookManagement.csproj",
+  "projectFilePath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\BookManagement\\BookManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

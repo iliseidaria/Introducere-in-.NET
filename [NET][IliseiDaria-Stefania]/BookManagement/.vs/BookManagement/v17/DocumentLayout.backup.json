@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\",
+  "WorkspaceRootPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\fii-2024-2025\\.net\\seminarii\\laborator3\\cod prof corect zip\\good\\bookmanagement\\application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|d:\\fii-2024-2025\\.net\\introducere-in-.net\\[net][iliseidaria-stefania]\\bookmanagement\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|d:\\fii-2024-2025\\.net\\seminarii\\laborator3\\cod prof corect zip\\good\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|d:\\fii-2024-2025\\.net\\introducere-in-.net\\[net][iliseidaria-stefania]\\bookmanagement\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\fii-2024-2025\\.net\\seminarii\\laborator3\\cod prof corect zip\\good\\bookmanagement\\application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|d:\\fii-2024-2025\\.net\\introducere-in-.net\\[net][iliseidaria-stefania]\\bookmanagement\\infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|d:\\fii-2024-2025\\.net\\introducere-in-.net\\[net][iliseidaria-stefania]\\bookmanagement\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateBookCommandHandler.cs",
-              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
-              "ToolTip": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
-              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA0AAAAdAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:29:49.565Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-10-27T12:50:28.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:04:00.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookManagement\\Controllers\\BooksController.cs",
-              "ToolTip": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\Controllers\\BooksController.cs*",
-              "RelativeToolTip": "BookManagement\\Controllers\\BooksController.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDIAAAAfAAAAAAAAAA==",
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:34:43.711Z",
+              "WhenOpened": "2024-10-25T10:59:22.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetBookByIdQueryHandler.cs",
-              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "ToolTip": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetBookByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Title": "DepedencyInjection.cs",
+              "DocumentMoniker": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\DepedencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DepedencyInjection.cs",
+              "ToolTip": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\DepedencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DepedencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:32:28.895Z",
+              "WhenOpened": "2024-10-25T10:56:08.804Z",
               "EditorCaption": ""
             }
           ]

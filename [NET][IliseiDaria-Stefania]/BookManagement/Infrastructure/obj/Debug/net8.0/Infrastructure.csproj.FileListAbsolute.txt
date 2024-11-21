@@ -15,3 +15,21 @@ D:\FII-2024-2025\.NET\SEMINARII\Laborator3\cod prof corect zip\good\BookManageme
 D:\FII-2024-2025\.NET\SEMINARII\Laborator3\cod prof corect zip\good\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\FII-2024-2025\.NET\SEMINARII\Laborator3\cod prof corect zip\good\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 D:\FII-2024-2025\.NET\SEMINARII\Laborator3\cod prof corect zip\good\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\FII-2024-2025\.NET\Introducere-in-.NET\[NET][IliseiDaria-Stefania]\BookManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

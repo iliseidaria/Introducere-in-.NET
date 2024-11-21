@@ -2751,11 +2751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\BookManagement.csproj",
+      "projectUniqueName": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\BookManagement\\BookManagement.csproj",
       "projectName": "BookManagement",
-      "projectPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\BookManagement.csproj",
+      "projectPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\BookManagement\\BookManagement.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\BookManagement\\obj\\",
+      "outputPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\BookManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2773,14 +2773,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Application.csproj": {
-              "projectPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Application\\Application.csproj"
+            "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\Application.csproj": {
+              "projectPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Application\\Application.csproj"
             },
-            "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Domain\\Domain.csproj"
+            "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Domain\\Domain.csproj"
             },
-            "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\FII-2024-2025\\.NET\\SEMINARII\\Laborator3\\cod prof corect zip\\good\\BookManagement\\Infrastructure\\Infrastructure.csproj"
+            "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\FII-2024-2025\\.NET\\Introducere-in-.NET\\[NET][IliseiDaria-Stefania]\\BookManagement\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
